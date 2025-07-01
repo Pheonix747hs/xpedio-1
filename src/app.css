@@ -1,0 +1,5 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@plugin "daisyui";
+/* DaisyUI plugin will be picked up via tailwind.config.js */
